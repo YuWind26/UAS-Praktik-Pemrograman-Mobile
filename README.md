@@ -10,3 +10,9 @@ KELAS: IK2D
 
 * initial commit - 13/02/2022
 
+**Tampilan Screen Home**\
+![home](home.jpeg) \
+
+**Tampilan Screen Detail Item**\
+![detail](item_detail.jpeg)
+
