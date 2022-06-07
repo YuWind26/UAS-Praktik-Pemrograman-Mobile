@@ -1,18 +1,14 @@
-# UAS-Praktik-Pemrograman-Mobile
-Projek ini merupakan Ujian Akhir Semester 3 Praktik Pemrograman Mobile
-
-**Dibuat Oleh :**\
-NAMA : Riyagung Nuryusufa Tranggono Adi Prasetya\
-NO   : 21\
-KELAS: IK2D
-
-**Progress**
-
-* initial commit - 13/02/2022
+# Hymart  merupakan sebuah aplikasi mobile dengan teknologi kotlin yang memiliki fitur
+<ul>
+  <li>Home</li>
+  <li>Detail Category (On Going) </li>
+</ul>
 
 **Tampilan Screen Home**\
-![home](home.jpeg) \
+[<img src="home.jpeg" width="250"/>](home.jpeg) 
 
 **Tampilan Screen Detail Item**\
-![detail](item_detail.jpeg)
+[<img src="item_detail.jpeg" width="250"/>](item_detail.jpeg) 
 
+**Dibuat Oleh :**\
+NAMA : Riyagung Nuryusufa Tranggono Adi Prasetya
